@@ -5,7 +5,7 @@
 
 <!--Hi, I'm Gustavo Gomes, a Electronics student passionated about development and entrepreneurship.-->
 
-- :books: I’m currently React and React Native, Node.js.
+- :books: I’m currently TypeScript, React and React Native, Node.js.
 <!--
 - :computer: Techs:   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
 - :pushpin: Interests: UX, UI Design, Video Editing, Motion Graphics.-->
@@ -27,7 +27,7 @@
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/GustavoGomesRibeiro/)](https://github.com/GustavoGomesRibeiro/)
 
 
-![age](https://img.shields.io/badge/age-21-blue)
+![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
 
 [![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/GustavoGomesRibeiro)
