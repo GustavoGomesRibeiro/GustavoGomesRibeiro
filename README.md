@@ -16,6 +16,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/GustavoGomesRibeiro/)](https://github.com/GustavoGomesRibeiro/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/GustavoGomesRibeiro/)](https://github.com/GustavoGomesRibeiro/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/GustavoGomesRibeiro/)](https://github.com/GustavoGomesRibeiro/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=react&link=https://github.com/GustavoGomesRibeiro/)](https://github.com/GustavoGomesRibeiro/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/GustavoGomesRibeiro/)](https://github.com/GustavoGomesRibeiro/)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/GustavoGomesRibeiro/)](https://github.com/GustavoGomesRibeiro/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/GustavoGomesRibeiro/)](https://github.com/GustavoGomesRibeiro/)
@@ -30,7 +31,7 @@
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/GustavoGomesRibeiro)
+<!-- [![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/GustavoGomesRibeiro) -->
 
 ⭐️ From [GustavoGomesRibeiro](https://github.com/GustavoGomesRibeiro)
 
