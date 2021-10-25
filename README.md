@@ -1,9 +1,6 @@
 ## Gustavo Gomes
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:gustavo_roox@hotmail.com)](mailto:gustavo_roox@hotmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/_Guhsje)](https://twitter.com/_Guhsje)
 
-
-<!--Hi, I'm Gustavo Gomes, a Electronics student passionated about development and entrepreneurship.-->
+- For more details run this command: `npx gustavogomesribeiro`
 
 - :books: I’m currently TypeScript, React and React Native, Node.js.
 <!--
